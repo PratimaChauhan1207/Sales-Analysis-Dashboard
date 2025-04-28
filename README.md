@@ -1,7 +1,4 @@
 # 📊 Sales Analysis Dashboard - Power BI Project
-# 📸 Dashboard Preview
-
-![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## 📝 Project Description
 This Power BI project is a **comprehensive sales analysis dashboard** built to visualize and understand sales performance across different cities, months, product categories, and days of the week.  
