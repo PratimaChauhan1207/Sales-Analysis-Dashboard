@@ -1,8 +1,7 @@
 # 📊 Sales Analysis Dashboard - Power BI Project
 
-# 📸 Dashboard Preview
+![Dashboard Screenshot](dashboard-screenshot.png)
 
-![Dashboard](dashboard-screenshot.png)
 
 
 
